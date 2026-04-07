@@ -1,8 +1,3 @@
-<h1>Projeto desenvolvido durante o curso DevClub</h1>
-
-
-
-
 <h1 align="center">🛍️ Wide Coverage</h1>
 
 <p align="center">
