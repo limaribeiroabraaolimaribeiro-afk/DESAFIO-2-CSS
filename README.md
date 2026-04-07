@@ -44,14 +44,15 @@ Neste projeto, trabalhei a responsividade para que a interface ficasse bem ajust
 
 ## 🖼️ Preview do projeto
 
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/limaribeiroabraaolimaribeiro-afk/DESAFIO-2-CSS/blob/master/img/Wide-coverage.png?raw=true"> alt="Versão desktop do projeto Wide Coverage" height="300px"><br>
+      <img src="https://github.com/limaribeiroabraaolimaribeiro-afk/DESAFIO-2-CSS/blob/master/img/Wide-coverage.png?raw=true" alt="Versão desktop do projeto Wide Coverage" height="300px"><br>
       <sub><b>Versão Desktop</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/limaribeiroabraaolimaribeiro-afk/DESAFIO-2-CSS/blob/master/img/Wide-coverage%20cell.png?raw=true"> alt="Versão mobile do projeto Wide Coverage" height="300px"><br>
+      <img src="https://github.com/limaribeiroabraaolimaribeiro-afk/DESAFIO-2-CSS/blob/master/img/Wide-coverage%20cell.png?raw=true" alt="Versão mobile do projeto Wide Coverage" height="300px"><br>
       <sub><b>Versão Mobile</b></sub>
     </td>
   </tr>
@@ -73,7 +74,7 @@ Com esse projeto, aprendi mais sobre:
 ## 🔗 Link do projeto
 
 Você pode acessar o repositório aqui:  
-[Easy Shopping](https://github.com/limaribeiroabraaolimaribeiro-afk)
+[Easy Shopping](https://github.com/limaribeiroabraaolimaribeiro-afk/DESAFIO-2-CSS/)
 
 ---
 
