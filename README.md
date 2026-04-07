@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">🛍️ Easy Shopping</h1>
+<h1 align="center">🛍️ Wide Coverage</h1>
 
 <p align="center">
   Projeto desenvolvido durante os estudos no 
@@ -25,7 +25,7 @@
 
 ## 📌 Sobre o projeto
 
-O **Easy Shopping** foi um projeto desenvolvido com o objetivo de colocar em prática os conhecimentos adquiridos em aula, principalmente sobre:
+O **Wide Coverage** foi um projeto desenvolvido com o objetivo de colocar em prática os conhecimentos adquiridos em aula, principalmente sobre:
 
 - estruturação com HTML
 - estilização com CSS
