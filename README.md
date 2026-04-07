@@ -74,7 +74,7 @@ Com esse projeto, aprendi mais sobre:
 ## 🔗 Link do projeto
 
 Você pode acessar o repositório aqui:  
-[Easy Shopping](https://github.com/limaribeiroabraaolimaribeiro-afk/DESAFIO-2-CSS/)
+[Wide Coverage](https://github.com/limaribeiroabraaolimaribeiro-afk/DESAFIO-2-CSS/)
 
 ---
 
